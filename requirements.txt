@@ -1,0 +1,8 @@
+streamlit>=1.32
+pandas>=2.0
+faster-whisper>=1.0
+yt-dlp>=2024.8.6
+edge-tts>=6.1
+requests>=2.31
+numpy>=1.26
+imageio-ffmpeg>=0.5
